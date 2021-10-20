@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "adham mern",
+    "mongoUri": "mongodb+srv://adham:56542118@cluster0.fkxrc.mongodb.net/app"
+}
